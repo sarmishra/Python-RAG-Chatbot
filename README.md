@@ -70,7 +70,7 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 ```
 
 • Uses similarity search + relevance threshold (>= 0.7)
-• Returns formatted response and document sources
+• Returns a formatted response and document sources
 
 ### Option 2: Option 2: Streamlit Web App
 
@@ -97,6 +97,10 @@ Then open http://localhost:8501 in your browser.
 
 ---
 
-## How to create a OpenAI API Key
+## How to create an OpenAI API Key
 
-> Need to set up an OpenAI account and generate the OpenAI key form here : [Create a new secreat key](https://platform.openai.com/api-keys). Will need to make a payment for OpenAI API to work.
+> Need to set up an OpenAI account and generate the OpenAI key from here : [Create a new secret key](https://platform.openai.com/api-keys). We will need to make a payment for the OpenAI API to work.
+
+## 🖼️ Preview
+
+![Landing Page](https://github.com/sarmishra/Python-RAG-Chatbot/blob/main/AI_Chatbot_UI.png)
