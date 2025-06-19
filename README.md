@@ -35,12 +35,6 @@ Build an AI-powered chatbot using **RAG (Retrieval-Augmented Generation)** with 
 pip install -r requirements.txt
 ```
 
-2. Install markdown dependencies with:
-
-```python
-pip install "unstructured[md]"
-```
-
 ### 2. Set Your OpenAI API Key
 
 Create a .env file in the root directory and define your API Key's value there.
