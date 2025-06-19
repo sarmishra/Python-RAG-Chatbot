@@ -29,13 +29,13 @@ Build an AI-powered chatbot using **RAG (Retrieval-Augmented Generation)** with 
 
 ### 1. Install Dependencies
 
-1. Run this command to install dependenies in the `requirements.txt` file.
+1. Run this command to install dependencies in the `requirements.txt` file.
 
 ```python
 pip install -r requirements.txt
 ```
 
-2. Install markdown depenendies with:
+2. Install markdown dependencies with:
 
 ```python
 pip install "unstructured[md]"
@@ -63,7 +63,7 @@ python create_database.py
 
 ### Option 1: Command Line Interface
 
-Ask questions from terminal using:
+Ask questions from the terminal using:
 
 ```bash
 python query_data.py "How does Alice meet the Mad Hatter?"
@@ -100,6 +100,8 @@ Then open http://localhost:8501 in your browser.
 ## How to create an OpenAI API Key
 
 > Need to set up an OpenAI account and generate the OpenAI key from here : [Create a new secret key](https://platform.openai.com/api-keys). We will need to make a payment for the OpenAI API to work.
+
+---
 
 ## 🖼️ Preview
 
