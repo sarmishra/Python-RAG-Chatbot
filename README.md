@@ -72,7 +72,7 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 • Uses similarity search + relevance threshold (>= 0.7)
 • Returns a formatted response and document sources
 
-### Option 2: Option 2: Streamlit Web App
+### Option 2: Streamlit Web App
 
 Launch the UI:
 
