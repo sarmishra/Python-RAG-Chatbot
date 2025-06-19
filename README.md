@@ -1,4 +1,4 @@
-# 🧠 RAG + LangChain: AI Chatbot for Docs
+# 🧠 RAG + LangChain: AI Chatbot for Docs with Streamlit UI
 
 Build an AI-powered chatbot using **RAG (Retrieval-Augmented Generation)** with **Python**, **LangChain**, **ChromaDB**, and **OpenAI**. It allows you to ask questions about documents (such as PDFs, Markdown files, etc.) and receive context-aware, grounded responses with source citations.
 
